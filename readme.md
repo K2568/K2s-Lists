@@ -4,13 +4,13 @@ Lists of various things that ive put together
 
 ## Create
 
-### Shaders with create:
+### Extra performance and shaders with create:
 Up to date as of 07/11/2025
 
 |           | Forge | NeoForge                                                                           | Fabric | Quilt |
 |-----------|-------|------------------------------------------------------------------------------------|--------|-------|
-| 1.21.1    | N/A   | [Neo 1.21.1](https://github.com/K2568/K2s-Lists/blob/main/create/shaders/1.21.1/neo.md) | N/A    | N/A   |
-| 1.20.1 C6 |       |                                                                                    |        |       |
+| 1.21.1    | N/A   | [Neo 1.21.1](https://github.com/K2568/K2s-Lists/blob/main/create/performance/1.21.1/neo.md) | Waiting for update    | Waiting for update   |
+| 1.20.1 C6 |       | [Neo 1.20.1](https://github.com/K2568/K2s-Lists/blob/main/create/performance/1.20.1/neo.md)                                                                                   |        |       |
 | 1.20.1 C5 |       |                                                                                    |        |       |
 | 1.19.2    |       | N/A                                                                                |        |       |
 | 1.18.2    |       | N/A                                                                                |        |       |
