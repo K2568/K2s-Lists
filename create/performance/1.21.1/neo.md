@@ -6,6 +6,14 @@
 
 (Only recommendation I would make different to this list is to use sodium instead of the recommended embeddium)
 
+If you are playing multiplayer:<br>
+Client mods are only needed on the client, you don't need to put this on a server.<br>
+Server mods are only needed on the server end, if you are hosting with essential or e4mc then install them on your client.<br>
+Both mods will be needed on both client and server for players to be able to join while they are present.
+
+If you are playing singleplayer you can ignore the client, server, both tags.<br>
+<br>
+
 If you dont want to manually install the mods this is the recommended modpack: [Download Latest](https://modrinth.com/modpack/hammer/versions?c=release&c=beta&c=alpha&g=1.21.1&l=neoforge)
 
 ## If you want to use shaders:

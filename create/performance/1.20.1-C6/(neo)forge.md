@@ -2,13 +2,19 @@
 
 ## Extra performance:
 
-[List of performance mods from TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods/blob/main/Performance/Performance120.md#forge-120x)
+[List of performance mods from TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods/blob/main/Performance/Performance120.md#fabric-120x)
 
-(Only recommendation I would make different to this list is to use sodium instead of the recommended embeddium)
+If you are playing multiplayer:<br>
+Client mods are only needed on the client, you don't need to put this on a server.<br>
+Server mods are only needed on the server end, if you are hosting with essential or e4mc then install them on your client.<br>
+Both mods will be needed on both client and server for players to be able to join while they are present.
+
+If you are playing singleplayer you can ignore the client, server, both tags.<br>
+<br>
 
 If you dont want to manually install the mods this is the recommended modpack: <br>
-[Download Latest Forge](https://modrinth.com/modpack/hammer/versions?c=release&c=beta&c=alpha&g=1.20.1&l=forge) <br>
-[Download Latest NeoForge](https://modrinth.com/modpack/hammer/versions?c=release&c=beta&c=alpha&g=1.20.1&l=neoforge)
+[Download Latest Forge Modrinth](https://modrinth.com/modpack/hammer/versions?c=release&c=beta&c=alpha&g=1.20.1&l=forge) <br>
+[Download Latest NeoForge Modrinth](https://modrinth.com/modpack/hammer/versions?c=release&c=beta&c=alpha&g=1.20.1&l=neoforge)
 
 ## If you want to use shaders:
 
@@ -20,7 +26,6 @@ If the shaderpack you use is on this list then you only need Iris, Create Better
     Shrimple (WIP, available on GitHub)
     
     Quoted from the colorwheel modrinth page
-
 
 |                    | Modrinth        | Curseforge      |
 |--------------------|-----------------|-----------------|
