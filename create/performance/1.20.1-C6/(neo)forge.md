@@ -1,8 +1,8 @@
-# K2's Lists / Create / Performance / 1.20.1 / (Neo)Forge
+# K2's Lists / Create / Performance / 1.20.1 C6/ (Neo)Forge
 
 ## Extra performance:
 
-[List of performance mods from TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods/blob/main/Performance/Performance120.md#fabric-120x)
+[List of performance mods from TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods/blob/main/Performance/Performance120.md#forge-120x)
 
 If you are playing multiplayer:<br>
 Client mods are only needed on the client, you don't need to put this on a server.<br>
