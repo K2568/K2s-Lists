@@ -13,8 +13,8 @@ If you are playing singleplayer you can ignore the client, server, both tags.<br
 <br>
 
 If you dont want to manually install the mods this is the recommended modpack: <br>
-[Download Latest Curseforge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files/all?page=1&pageSize=20&version=1.20.1&showAlphaFiles=show) <br>
-[Download Latest Modrinth](https://modrinth.com/modpack/fabulously-optimized/versions?g=1.20.1&c=release&c=beta&c=alpha)
+[Download Latest Fabric Curseforge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files/all?page=1&pageSize=20&version=1.20.1&showAlphaFiles=show) <br>
+[Download Latest Fabric Modrinth](https://modrinth.com/modpack/fabulously-optimized/versions?g=1.20.1&c=release&c=beta&c=alpha)
 
 ## If you want to use shaders:
 
