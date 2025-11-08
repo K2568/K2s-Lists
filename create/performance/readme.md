@@ -1,7 +1,16 @@
 # K2's Lists / Create / Performance
 
 ### Extra performance and shaders with create:
-Up to date as of 07/11/2025
+Up to date as of 07/11/2025 <br>
+Read through the top table then select the relevant version from the bottom table
+
+### Mods that cause rendering errors:
+
+| Mod          | Fix              |
+|--------------|------------------|
+| More Culling | Config or remove |
+
+### Info for each version:
 
 |           | Forge | NeoForge                                                                           | Fabric or Quilt |
 |-----------|-------|------------------------------------------------------------------------------------|--------|
