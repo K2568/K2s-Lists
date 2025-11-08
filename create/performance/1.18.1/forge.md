@@ -12,8 +12,8 @@ Both mods will be needed on both client and server for players to be able to joi
 If you are playing singleplayer you can ignore the client, server, both tags.<br>
 <br>
 
-No recommended modpack for 1.18.1, use 1.18.2 for this:
-If you know any send them to me
+No recommended modpack for 1.18.1, use 1.18.2 for this: <br>
+If you know any good packs send them to me (only performance mods, no content mods).
 |           | Forge | Fabric and Quilt |
 |-----------|-------| -------|
 | 1.18.2    | [Forge 1.18.2](https://github.com/K2568/K2s-Lists/blob/main/create/performance/1.18.2/forge.md) | [Fabric-Quilt 1.18.2](https://github.com/K2568/K2s-Lists/blob/main/create/performance/1.18.2/fabric-quilt.md) |  
@@ -21,8 +21,7 @@ If you know any send them to me
 
 ## If you want to use shaders:
 
-No good shader mods for 1.18.1, use 1.18.2 for this:
-If you know any send them to me
+Iris is available for 1.18.1 but iris flywheel compat isn't so you may experience lag, use 1.18.2 for iris flywheeel compat:
 |           | Forge | Fabric and Quilt |
 |-----------|-------| -------|
 | 1.18.2    | [Forge 1.18.2](https://github.com/K2568/K2s-Lists/blob/main/create/performance/1.18.2/forge.md) | [Fabric-Quilt 1.18.2](https://github.com/K2568/K2s-Lists/blob/main/create/performance/1.18.2/fabric-quilt.md) |
