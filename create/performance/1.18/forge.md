@@ -21,7 +21,9 @@ If you know any good packs send them to me (only performance mods, no content mo
 
 ## If you want to use shaders:
 
-Oculus and iris flywheel compat not available on 1.18, use 1.18.2 or optifine if you cant switch to 1.16.5.
+Oculus and iris flywheel compat not available on 1.18, use 1.18.2 or [optifine](https://optifine.net/downloads) if you cant switch to 1.18.2.
+
+
 |           | Forge | Fabric and Quilt |
 |-----------|-------| -------|
 | 1.18.2    | [Forge 1.18.2](https://github.com/K2568/K2s-Lists/blob/main/create/performance/1.18.2/forge.md) | [Fabric-Quilt 1.18.2](https://github.com/K2568/K2s-Lists/blob/main/create/performance/1.18.2/fabric-quilt.md) |

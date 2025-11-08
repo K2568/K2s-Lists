@@ -21,8 +21,13 @@ If you know any good packs send them to me (only performance mods, no content mo
 
 ## If you want to use shaders:
 
-Iris is available for 1.18.1 but iris flywheel compat isn't so you may experience lag, use 1.18.2 for iris flywheeel compat:
+Oculus is available for 1.18.1 but iris flywheel compat isn't so you may experience lag, use 1.18.2 for iris flywheeel compat:
+|                    | Modrinth        | Curseforge      |
+|--------------------|-----------------|-----------------|
+| Oculus             | N/A | [Download Latest](https://www.curseforge.com/minecraft/mc-mods/oculus/files/all?page=1&pageSize=20&version=1.18.1&gameVersionTypeID=6&showAlphaFiles=show) |
+
 |           | Forge | Fabric and Quilt |
 |-----------|-------| -------|
 | 1.18.2    | [Forge 1.18.2](https://github.com/K2568/K2s-Lists/blob/main/create/performance/1.18.2/forge.md) | [Fabric-Quilt 1.18.2](https://github.com/K2568/K2s-Lists/blob/main/create/performance/1.18.2/fabric-quilt.md) |
+
 

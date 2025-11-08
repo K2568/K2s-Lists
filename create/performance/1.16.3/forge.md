@@ -18,7 +18,7 @@ If you know any good packs send them to me (only performance mods, no content mo
 
 ## If you want to use shaders:
 
-Oculus and iris flywheel compat not available on 1.16.3, use 1.16.5 or optifine if you cant switch to 1.16.5
+Oculus and iris flywheel compat not available on 1.16.3, use 1.16.5 or [optifine](https://optifine.net/downloads) if you cant switch to 1.16.5
 |           | Forge |
 |-----------|-------|
 | 1.16.5    | [Forge 1.16.5](https://github.com/K2568/K2s-Lists/blob/main/create/performance/1.16.5/forge.md) |
