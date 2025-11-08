@@ -4,6 +4,8 @@
 
 [List of performance mods from TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods/blob/main/Performance/Performance120.md#fabric-120x)
 
+Fabric mods work on quilt but not the other way around
+
 If you are playing multiplayer:<br>
 Client mods are only needed on the client, you don't need to put this on a server.<br>
 Server mods are only needed on the server end, if you are hosting with essential or e4mc then install them on your client.<br>
