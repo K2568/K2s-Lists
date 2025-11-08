@@ -1,4 +1,4 @@
-# K2's Lists / Create / Performance / 1.20.1 C6/ (Neo)Forge
+# K2's Lists / Create / Performance / 1.20.1 C6 / (Neo)Forge
 
 ## Extra performance:
 
