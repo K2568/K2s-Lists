@@ -22,3 +22,9 @@ If you know any good packs send them to me (only performance mods, no content mo
 |--------------------|-----------------|-----------------|
 | Oculus             | [Download Latest](https://modrinth.com/mod/oculus/versions?c=beta&c=release&g=1.16.5&l=forge) | [Download Latest](https://www.curseforge.com/minecraft/mc-mods/oculus/files/all?page=1&pageSize=20&version=1.16.5&gameVersionTypeID=6&showAlphaFiles=show) |
 | Iris Flywheel Compat| N/A | [Download Latest](https://www.curseforge.com/minecraft/mc-mods/iris-flywheel-compat/files/all?page=1&pageSize=20&version=1.16.5&gameVersionTypeId=1&showAlphaFiles=show) |
+
+If you still experience rendering problems or lost performance try all flywheel backends including the one Iris Flywheel Compat adds: <br>
+/flywheel backend irisflw:iris_instancing <br>
+/flywheel backend batching <br>
+/flywheel backend instancing <br>
+/flywheel backend off <br>
