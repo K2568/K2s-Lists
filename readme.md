@@ -21,3 +21,16 @@ Up to date as of 07/11/2025
 | 1.16.3    | [Forge 1.16.3](https://github.com/K2568/K2s-Lists/blob/main/create/performance/1.16.3/forge.md) | N/A                                                                                | N/A    |
 | 1.15.2    | [Forge 1.15.2](https://github.com/K2568/K2s-Lists/blob/main/create/performance/1.15.2/forge.md) | N/A                                                                                | N/A    |
 | 1.14.4    | [Forge 1.14.4](https://github.com/K2568/K2s-Lists/blob/main/create/performance/1.14.4/forge.md) | N/A                                                                                | N/A    |
+
+### Discord embeds:
+References to commands are for the steam and rails and create server, commands may not work in others
+
+Copy and paste the given links to use the embeds
+
+https://k2568.github.io/K2s-Lists/create/embeds/rendering <br>
+<br>
+![](https://github.com/K2568/K2s-Lists/blob/main/create/embeds/media/rendering.png?raw=true)
+
+https://k2568.github.io/K2s-Lists/create/embeds/binarysearch <br>
+<br>
+![](https://github.com/K2568/K2s-Lists/blob/main/create/embeds/media/binarysearch.png?raw=true)
