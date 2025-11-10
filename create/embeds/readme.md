@@ -12,3 +12,7 @@ https://k2568.github.io/K2s-Lists/create/embeds/rendering <br>
 https://k2568.github.io/K2s-Lists/create/embeds/binarysearch <br>
 <br>
 ![](https://github.com/K2568/K2s-Lists/blob/main/create/embeds/media/binarysearch.png?raw=true)
+
+https://k2568.github.io/K2s-Lists/create/embeds/snr <br>
+<br>
+![](https://github.com/K2568/K2s-Lists/blob/main/create/embeds/media/snr.png?raw=true)
