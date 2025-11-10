@@ -17,16 +17,6 @@ If you dont want to manually install the mods this is the recommended modpack: <
 [Download Latest Fabric Modrinth](https://modrinth.com/modpack/fabulously-optimized/versions?g=1.20.1&c=release&c=beta&c=alpha)
 
 ## If you want to use shaders:
-
-If the shaderpack you use is on this list then you only need Iris, Create Better FPS and Colorwheel, if it isn't on this list then install Colorwheel Patcher alongside them:
-
-    Euphoria Patches, since 1.7.0
-    Eclipse (edit of Bliss, available on GitHub)
-    Glimmer (available on GitHub)
-    Shrimple (WIP, available on GitHub)
-    
-    Quoted from the colorwheel modrinth page
-
 |                    | Modrinth        | Curseforge      |
 |--------------------|-----------------|-----------------|
 | Iris             | [Download Latest](https://modrinth.com/mod/iris/versions?c=beta&c=release&g=1.20.1&l=fabric) | [Download Latest](https://www.curseforge.com/minecraft/mc-mods/irisshaders/files/all?page=1&pageSize=20&version=1.20.1&gameVersionTypeId=4) |
@@ -37,4 +27,5 @@ If you still experience rendering problems or lost performance try all flywheel 
 /flywheel backend irisflw:iris_instancing <br>
 /flywheel backend batching <br>
 /flywheel backend instancing <br>
+
 /flywheel backend off <br>
